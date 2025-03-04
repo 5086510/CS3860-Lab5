@@ -27,7 +27,7 @@ g++ partone.cpp -o chunkIt && ./chunkIt
 
 gst partone.st
 
-
+```
 
 
 ## Part Two 
@@ -43,10 +43,10 @@ This project is a Haskell implementation of the Hill Cipher encryption and decry
 - GHC (Glasgow Haskell Compiler)
 
 ##  How to Run the Files
-
+```bash
 
 Compile : ghc hill_cipher.hs -o hill_cipher
 
 And then ----- :       /hill_cipher
 
-
+```
