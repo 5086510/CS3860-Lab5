@@ -10,8 +10,10 @@ This repository contains my solutions for Lab 5 in the CS3860 course, where I im
 
 ##  How to Run the Files
 
-### **Haskell (`partone.hs`):**
 ```bash
+
+### **Haskell (`partone.hs`):**
+
 runhaskell partone.hs
 
 
